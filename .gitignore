@@ -2,6 +2,7 @@
 .vscode
 *.mp4
 *.part
+custom
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
